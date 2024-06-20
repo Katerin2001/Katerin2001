@@ -14,6 +14,8 @@
 
 - 🔭 Trabaje en la creacion de una tienda virtual [Tienda virtual](https://github.com/Katerin2001/AppVet.git)
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/katerin cecen rubio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katerin cecen rubio" height="30" width="40" /></a>
