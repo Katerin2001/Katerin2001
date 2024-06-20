@@ -7,16 +7,17 @@
   <h2>🐍 Mis Contribuciones 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/>
 </div>
-
 -  Tienda virtual veterinaria [Tienda virtual](https://github.com/Katerin2001/AppVet.git)
 -  Plataforma Virtual [Tienda virtual](https://github.com/Katerin2001/AulaVirtual.git)
 -  Sistema de Gestion de Inventario [Inventario](https://github.com/Invcontrol-Back/dasfrontend.git)
   
+## ⚙️ &nbsp;GitHub Analytics
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards
+<p align="center">
+  <a href="https://github.com/Katerin2001">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=katerin2001&show_icons=true&locale=en&layout=compact" alt="katerin2001"/>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
