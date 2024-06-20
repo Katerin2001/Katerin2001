@@ -1,4 +1,4 @@
-
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋+👋;Soy+Katerin+Cecen+Rubio!)
 <h1 align="center">Soy Katerin Cecen Rubio</h1>
 <h3 align="center">Ingeniera de software, mi pasión radica en crear experiencias digitales impactantes a través del desarrollo frontend. Con habilidades sólidas en HTML, CSS y JavaScript, me especializo en la creación de interfaces de usuario intuitivas y atractivas.</h3>
 
