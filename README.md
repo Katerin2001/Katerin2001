@@ -11,7 +11,10 @@
   <br/><br/><br/>
 </div>
 
-- 🔭 Trabaje en la creacion de una tienda virtual [Tienda virtual](https://github.com/Katerin2001/AppVet.git)
+-  Tienda virtual veterinaria [Tienda virtual](https://github.com/Katerin2001/AppVet.git)
+-  Plataforma Virtual [Tienda virtual](https://github.com/Katerin2001/AulaVirtual.git)
+-  Sistema de Gestion de Inventario [Inventario](https://github.com/Invcontrol-Back/dasfrontend.git)
+  
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards
 
