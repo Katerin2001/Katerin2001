@@ -39,7 +39,7 @@
 - Asistencia en la implementación y gestión de la red interna de comunicación.
 - Colaboración en proyectos de mejora y actualización de la infraestructura tecnológica.
 
-![Cuerpo de Bomberos de Ambato](bomb.jpg)
+![Cuerpo de Bomberos de Ambato](bomberos.jpg)
 
    
 ## ⚙️ &nbsp;GitHub Analisis
