@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="kate.jpg" alt="GitHub Readme Stats" />
+</p>
+
+ 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋+👋;Soy+Katerin+Cecen+Rubio!)
 <h3 align="center">Ingeniera de software, mi pasión radica en crear experiencias digitales impactantes a través del desarrollo frontend. Con habilidades sólidas en HTML, CSS y JavaScript, me especializo en la creación de interfaces de usuario intuitivas y atractivas.</h3>
 
@@ -9,11 +14,35 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
+
 -  Tienda virtual veterinaria [Tienda virtual](https://github.com/Katerin2001/AppVet.git)
--  Plataforma Virtual [Tienda virtual](https://github.com/Katerin2001/AulaVirtual.git)
+-  Plataforma Virtual [Plataforma Virtual](https://github.com/Katerin2001/AulaVirtual.git)
 -  Sistema de Gestion de Inventario [Inventario](https://github.com/Invcontrol-Back/dasfrontend.git)
-  
-## ⚙️ &nbsp;GitHub Analytics
+## Experiencia :computer:
+### Pasante Auditor - Cuerpo de Bomberos de Ambato
+**Duración:** 4 meses
+
+**Funciones realizadas:**
+- Realización de auditorías internas para asegurar el cumplimiento de las normativas y procedimientos establecidos.
+- Revisión y análisis de los registros contables y financieros del cuerpo de bomberos.
+- Identificación de áreas de mejora y presentación de informes con recomendaciones para optimizar los procesos.
+- Asistencia en la implementación de controles internos y procedimientos correctivos.
+- Colaboración con el equipo administrativo para la resolución de problemas y la mejora continua.
+
+### Pasante de TICs - Cuerpo de Bomberos de Ambato
+**Duración:** 2 meses
+
+**Funciones realizadas:**
+- Soporte técnico en la instalación y mantenimiento de hardware y software.
+- Configuración y actualización de sistemas operativos y aplicaciones utilizadas por el cuerpo de bomberos.
+- Diagnóstico y resolución de problemas técnicos en equipos informáticos.
+- Asistencia en la implementación y gestión de la red interna de comunicación.
+- Colaboración en proyectos de mejora y actualización de la infraestructura tecnológica.
+
+![Cuerpo de Bomberos de Ambato](bomb.jpg)
+
+   
+## ⚙️ &nbsp;GitHub Analisis
 
 <p align="center">
   <a href="https://github.com/Katerin2001">
